@@ -1,0 +1,36 @@
+/* Headers.module.css */
+.header {
+    background-color: #d37373;
+    padding: 5px;
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+  }
+  
+  .title {
+    font-size:xx-large;
+    color: #470000;
+  
+  }
+  
+  .navList {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content :right;
+    gap: 20px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color:#470000;
+  }
+  
+  .link:hover {
+    text-decoration:#d37373;
+    
+    
+}
+
+  
+
